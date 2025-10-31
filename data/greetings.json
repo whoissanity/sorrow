@@ -1,0 +1,14 @@
+{
+  "123456789012345678": {
+    "greetchannel_id": 111111111111111111,
+    "leavechannel_id": 222222222222222222,
+    "boosterchannel_id": 333333333333333333,
+    "booster_role_id": 444444444444444444
+  },
+  "1429118154302558380": {
+    "greetchannel_id": 1429125275752464526,
+    "leavechannel_id": 1429128653874139329,
+    "boosterchannel_id": 1429128631824941187,
+    "booster_role_id": null
+  }
+}

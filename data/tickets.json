@@ -1,0 +1,20 @@
+{
+  "1429118154302558380": {
+    "staff_role_ids": [],
+    "category_id": 1433743882402664539,
+    "transcript_channel_id": 1433743883925323848,
+    "panels": {
+      "1": {
+        "text": "Press the button to open a support ticket.",
+        "button_label": "Open Ticket",
+        "emoji": "<a:991421catyawn:1431281029519511562> "
+      }
+    },
+    "panel_channels": {
+      "1": [
+        1430192533929066569,
+        1429125288142307460
+      ]
+    }
+  }
+}

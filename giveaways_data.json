@@ -1,0 +1,413 @@
+{
+  "guilds": {
+    "1429118154302558380": {
+      "claimtimes": {
+        "default": 86400,
+        "1430192787323617452": 60,
+        "1432753659875295377": 30,
+        "1429128691539247385": 30
+      },
+      "giveaways": {
+        "1432766756136681613": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1432744890306920538,
+          "message_id": 1432766756136681613,
+          "host_id": 1387056753371381864,
+          "reward": "agy chut",
+          "winners_count": 1,
+          "emoji": "\ud83c\udf89",
+          "start_ts": 1761668614,
+          "end_ts": 1761668644,
+          "ended": true,
+          "winner_ids": [
+            472201612920881163,
+            1387056753371381864
+          ],
+          "claim_deadlines": {
+            "472201612920881163": 1761755045,
+            "1387056753371381864": 1761755073
+          }
+        },
+        "1433017525695938611": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433017525695938611,
+          "host_id": 1387056753371381864,
+          "reward": "hu",
+          "winners_count": 1,
+          "emoji": "<a:991421catyawn:1431281029519511562> ",
+          "start_ts": 1761728402,
+          "end_ts": 1761728432,
+          "ended": true,
+          "winner_ids": [],
+          "claim_deadlines": {}
+        },
+        "1433028738119110668": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433028738119110668,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761731075,
+          "end_ts": 1761731105,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {},
+          "claim_notified": {
+            "1387056753371381864": true
+          }
+        },
+        "1433031777764638822": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433031777764638822,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761731800,
+          "end_ts": 1761733600,
+          "ended": true,
+          "winner_ids": [],
+          "claim_deadlines": {}
+        },
+        "1433031809402277939": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433031809402277939,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761731807,
+          "end_ts": 1761731837,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {},
+          "claim_notified": {
+            "1387056753371381864": true
+          }
+        },
+        "1433032161644122153": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433032161644122153,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761731891,
+          "end_ts": 1761731901,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {},
+          "claim_notified": {
+            "1387056753371381864": true
+          }
+        },
+        "1433033001230663773": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433033001230663773,
+          "host_id": 1387056753371381864,
+          "reward": "tokis clit",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761732091,
+          "end_ts": 1761732101,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {}
+        },
+        "1433033172215664700": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433033172215664700,
+          "host_id": 1387056753371381864,
+          "reward": "tokis clit",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761732132,
+          "end_ts": 1761732142,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {}
+        },
+        "1433033298761875487": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433033298761875487,
+          "host_id": 1387056753371381864,
+          "reward": "tokis clit",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761732162,
+          "end_ts": 1761732172,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {
+            "1387056753371381864": 1761732234
+          }
+        },
+        "1433034278299504671": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433034278299504671,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761732396,
+          "end_ts": 1761732406,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {
+            "1387056753371381864": 1761732467
+          }
+        },
+        "1433035203294793799": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1433034926877573172,
+          "message_id": 1433035203294793799,
+          "host_id": 1387056753371381864,
+          "reward": "Nitro Boost",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761732616,
+          "end_ts": 1764324616,
+          "ended": false,
+          "winner_ids": [],
+          "claim_deadlines": {}
+        },
+        "1433035242914185309": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1433034926877573172,
+          "message_id": 1433035242914185309,
+          "host_id": 1387056753371381864,
+          "reward": "nitro boost",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761732626,
+          "end_ts": 1764324626,
+          "ended": false,
+          "winner_ids": [],
+          "claim_deadlines": {}
+        },
+        "1433035282113888309": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1433034926877573172,
+          "message_id": 1433035282113888309,
+          "host_id": 1387056753371381864,
+          "reward": "Nitro Boost",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761732635,
+          "end_ts": 1764324635,
+          "ended": false,
+          "winner_ids": [],
+          "claim_deadlines": {}
+        },
+        "1433110535079202938": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1433102792943210690,
+          "message_id": 1433110535079202938,
+          "host_id": 1387056753371381864,
+          "reward": "Decor",
+          "winners_count": 1,
+          "emoji_str": "4.99",
+          "emoji_id": null,
+          "start_ts": 1761750577,
+          "end_ts": 1761836977,
+          "ended": false,
+          "winner_ids": [],
+          "claim_deadlines": {}
+        },
+        "1433110661629743104": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1433102792943210690,
+          "message_id": 1433110661629743104,
+          "host_id": 1387056753371381864,
+          "reward": "4.99 Decor",
+          "winners_count": 1,
+          "emoji_str": "<a:991421catyawn:1431281029519511562>",
+          "emoji_id": 1431281029519511562,
+          "start_ts": 1761750607,
+          "end_ts": 1761837007,
+          "ended": false,
+          "winner_ids": [],
+          "claim_deadlines": {}
+        },
+        "1433110868366856285": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1433102792943210690,
+          "message_id": 1433110868366856285,
+          "host_id": 1387056753371381864,
+          "reward": "4.99 Decor",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761750656,
+          "end_ts": 1761793856,
+          "ended": true,
+          "winner_ids": [],
+          "claim_deadlines": {}
+        },
+        "1433341390355697757": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433341390355697757,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761805617,
+          "end_ts": 1761805647,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {}
+        },
+        "1433341597667426355": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433341597667426355,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:l_black:1431280062929305651>",
+          "emoji_id": 1431280062929305651,
+          "start_ts": 1761805666,
+          "end_ts": 1761805681,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {}
+        },
+        "1433342916247552002": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433342916247552002,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761805981,
+          "end_ts": 1761805991,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {}
+        },
+        "1433343112612151417": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433343112612151417,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761806028,
+          "end_ts": 1761806033,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {}
+        },
+        "1433343257642795110": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433343257642795110,
+          "host_id": 1387056753371381864,
+          "reward": "hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761806062,
+          "end_ts": 1761806064,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {}
+        },
+        "1433347442321002506": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1430192533929066569,
+          "message_id": 1433347442321002506,
+          "host_id": 1387056753371381864,
+          "reward": "nitro hi",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761807060,
+          "end_ts": 1761807075,
+          "ended": true,
+          "winner_ids": [
+            1387056753371381864
+          ],
+          "claim_deadlines": {},
+          "claim_notified": {
+            "1387056753371381864": true
+          }
+        },
+        "1433383596772556862": {
+          "guild_id": 1429118154302558380,
+          "channel_id": 1433341449545449483,
+          "message_id": 1433383596772556862,
+          "host_id": 1387056753371381864,
+          "reward": "4.99 Decor",
+          "winners_count": 1,
+          "emoji_str": "<:black_blackstar:1431280327531430019>",
+          "emoji_id": 1431280327531430019,
+          "start_ts": 1761815680,
+          "end_ts": 1761902080,
+          "ended": false,
+          "winner_ids": [],
+          "claim_deadlines": {},
+          "claim_notified": {}
+        }
+      },
+      "latest_by_channel": {
+        "1432744890306920538": "1432766756136681613",
+        "1430192533929066569": "1433347442321002506",
+        "1433034926877573172": "1433035282113888309",
+        "1433102792943210690": "1433110868366856285",
+        "1433341449545449483": "1433383596772556862"
+      }
+    }
+  }
+}
